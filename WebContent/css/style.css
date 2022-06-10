@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+html{
+	background-color:#FFEBCD;
+}
+div{
+	left:50px;
+	top:20px;
+	height:300px;
+	width:80%;
+	background-color:#FFEBCD;
+	color:orange;
+}
+
+tr{
+	background-color:gold;
+	display:inline-block
+}
+
+tr:hover{
+	background-color:orange;
+}
